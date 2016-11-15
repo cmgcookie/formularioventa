@@ -1,0 +1,13 @@
+c:\users\soyxb\onedrive\documentos\visual studio 2015\Projects\Ropa\Ropa\bin\Debug\Ropa.exe.config
+c:\users\soyxb\onedrive\documentos\visual studio 2015\Projects\Ropa\Ropa\bin\Debug\Ropa.exe
+c:\users\soyxb\onedrive\documentos\visual studio 2015\Projects\Ropa\Ropa\bin\Debug\Ropa.pdb
+c:\users\soyxb\onedrive\documentos\visual studio 2015\Projects\Ropa\Ropa\obj\Debug\Ropa.csprojResolveAssemblyReference.cache
+c:\users\soyxb\onedrive\documentos\visual studio 2015\Projects\Ropa\Ropa\obj\Debug\Ropa.Form1.resources
+c:\users\soyxb\onedrive\documentos\visual studio 2015\Projects\Ropa\Ropa\obj\Debug\Ropa.Properties.Resources.resources
+c:\users\soyxb\onedrive\documentos\visual studio 2015\Projects\Ropa\Ropa\obj\Debug\Ropa.csproj.GenerateResource.Cache
+c:\users\soyxb\onedrive\documentos\visual studio 2015\Projects\Ropa\Ropa\obj\Debug\Ropa.exe
+c:\users\soyxb\onedrive\documentos\visual studio 2015\Projects\Ropa\Ropa\obj\Debug\Ropa.pdb
+C:\Users\soyxb\OneDrive\documentos\visual studio 2015\Projects\Ropa\Ropa\obj\Debug\Ropa.almacen.resources
+C:\Users\soyxb\OneDrive\documentos\visual studio 2015\Projects\Ropa\Ropa\obj\Debug\Ropa.clientes.resources
+C:\Users\soyxb\OneDrive\documentos\visual studio 2015\Projects\Ropa\Ropa\obj\Debug\Ropa.ventas.resources
+C:\Users\soyxb\OneDrive\documentos\visual studio 2015\Projects\Ropa\Ropa\obj\Debug\Ropa.vendedores.resources
